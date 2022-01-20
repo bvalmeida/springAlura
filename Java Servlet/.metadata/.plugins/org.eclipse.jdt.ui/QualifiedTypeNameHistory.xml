@@ -7,4 +7,7 @@
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
     <fullyQualifiedTypeName name="org.apache.jasper.tagplugins.jstl.core.ForEach"/>
     <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="javax.servlet.ServletException"/>
 </qualifiedTypeNameHistroy>
